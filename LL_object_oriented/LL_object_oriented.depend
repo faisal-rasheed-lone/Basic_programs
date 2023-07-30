@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1667304441 source:d:\programs\ll_object_oriented\main.cpp
+	<iostream>
+
+1667322970 source:d:\programs\ll_object_oriented\dd.c
+	<stdio.h>
+	<stdlib.h>
+

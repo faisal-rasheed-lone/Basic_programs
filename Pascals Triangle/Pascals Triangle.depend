@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1673508949 source:d:\programs\pascals triangle\main.cpp
+	<iostream>
+
+1676536574 source:d:\programs\pascals triangle\strings.cpp
+	<iostream>
+

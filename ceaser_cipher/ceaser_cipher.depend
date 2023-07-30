@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1655408502 source:d:\programs\ceaser_cipher\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1656614937 source:d:\programs\ceaser_cipher\main.cpp
+	<iostream>
+	<stdlib.h>
+
