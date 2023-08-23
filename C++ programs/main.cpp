@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    
     int num, num2,sum=0,flag=0;
     cout << "Enter starting number " << endl;
     cin >>num;
