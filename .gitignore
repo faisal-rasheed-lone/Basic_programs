@@ -1,0 +1,5 @@
+
+*.depend
+Prime_number_series/bin/Debug/Prime_number_series.exe
+Prime_number_series/obj/Debug/main.o
+Prime_number_series/Prime_number_series.layout
