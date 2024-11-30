@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646762625 source:d:\programs\occurenceofword\main.c
+	<stdio.h>
+	<string.h>
+

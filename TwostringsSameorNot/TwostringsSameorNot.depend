@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647108145 source:d:\programs\twostringssameornot\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

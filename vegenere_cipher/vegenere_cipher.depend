@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655296659 source:d:\programs\vegenere_cipher\main.c
+	<stdio.h>
+	<stdlib.h>
+

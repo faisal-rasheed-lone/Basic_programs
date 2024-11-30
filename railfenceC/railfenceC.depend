@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656012217 source:d:\programs\railfencec\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
